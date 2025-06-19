@@ -52,3 +52,30 @@ I’m **Sanskar Yadav**, a Cybersecurity & Development enthusiast based in Ahmed
 ---
 
 Thank you for visiting! Feel free to fork, clone, or connect.
+=======
+# Sanskar Yadav Portfolio (Fixed)
+
+This React app references images from `src/assets` instead of `public`.
+
+## Run
+
+1. Install dependencies:
+   ```
+   npm install
+   ```
+
+2. Start:
+   ```
+   npm start
+   ```
+
+## Structure
+
+- `public/`
+  - `index.html`
+- `src/`
+  - `assets/` (background images)
+  - `components/`
+  - `styles/`
+  - `App.js`, `App.css`
+  - `index.js`, `index.css`
