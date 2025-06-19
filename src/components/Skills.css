@@ -1,0 +1,46 @@
+
+.skills-section {
+  padding: 2rem;
+  text-align: center;
+}
+
+.skills-accordion {
+  max-width: 800px;
+  margin: auto;
+}
+
+.accordion-item {
+  margin: 1rem 0;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  overflow: hidden;
+  background: #1a1a1a;
+  color: white;
+}
+
+.accordion-button {
+  background: #292929;
+  color: white;
+  font-size: 1.1rem;
+  width: 100%;
+  text-align: left;
+  padding: 1rem;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: none;
+  outline: none;
+  font-weight: bold;
+}
+
+.accordion-button:hover {
+  background: #333;
+}
+
+.accordion-content {
+  padding: 1rem 2rem;
+  background: #2d2d2d;
+  text-align: left;
+  list-style: disc;
+}
